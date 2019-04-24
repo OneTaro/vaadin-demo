@@ -28,3 +28,4 @@ vaddin 学习系列
 
 * [vaadin官网](https://vaadin.com/)
 * [开始vaadin](https://vaadin.com/start/latest)
+* [maven配置](https://blog.csdn.net/oDeviloo/article/details/52050277)
